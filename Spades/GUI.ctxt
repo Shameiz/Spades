@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=m
+comment0.target=GUI(Game)
+comment1.params=me
+comment1.target=void\ mouseClicked(java.awt.event.MouseEvent)
+comment2.params=
+comment2.target=int\ getx()
+numComments=3
